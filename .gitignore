@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+/spring-cloud-eureka-server/spring-cloud-eureka-server.iml
+/spring-cloud-eureka-server/target/
+/spring-cloud-eureka-client/spring-cloud-eureka-client.iml
+/spring-cloud-eureka-consumer/spring-cloud-eureka-consumer.iml
+/spring-cloud-feign/spring-cloud-feign.iml
